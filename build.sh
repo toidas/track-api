@@ -1,0 +1,1 @@
+set GOOS=linux && go build track-api/src/cmd/server
